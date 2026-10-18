@@ -12,7 +12,7 @@
  "groups": [
   {
    "id": 15,
-   "title": "Estimate Segment Count  (frame count: 81, previous frame count: 5)",
+   "title": "Cuántas escenas necesita la toma (81 cuadros cada una, 5 de relevo)",
    "bounding": [
     630,
     5660,
@@ -24,9 +24,9 @@
   },
   {
    "id": 16,
-   "title": "First segment Preview",
+   "title": "Vista previa de la primera escena",
    "bounding": [
-    1420,
+    2040,
     5490,
     520,
     640
@@ -36,7 +36,7 @@
   },
   {
    "id": 17,
-   "title": "Source Video and Reference image",
+   "title": "La toma y la foto del casting",
    "bounding": [
     600,
     4300,
@@ -113,7 +113,7 @@
    "id": 202,
    "type": "SaveVideo",
    "pos": [
-    1440,
+    2060,
     5630
    ],
    "size": [
@@ -265,7 +265,7 @@
    "id": 201,
    "type": "CreateVideo",
    "pos": [
-    1430,
+    2050,
     5560
    ],
    "size": [
@@ -603,7 +603,7 @@
    "id": 269,
    "type": "BatchImagesNode",
    "pos": [
-    2560,
+    3180,
     4340
    ],
    "size": [
@@ -657,7 +657,7 @@
    "id": 270,
    "type": "CreateVideo",
    "pos": [
-    2560,
+    3180,
     4510
    ],
    "size": [
@@ -756,7 +756,7 @@
    "id": 271,
    "type": "SaveVideo",
    "pos": [
-    2830,
+    3450,
     4340
    ],
    "size": [
@@ -869,7 +869,7 @@
    "id": 213,
    "type": "d1ab1953-6167-4827-b44e-b4108cea5702",
    "pos": [
-    1440,
+    2060,
     4340
    ],
    "size": [
@@ -1164,7 +1164,7 @@
    "id": 262,
    "type": "56bf150b-bd14-4513-8e03-335e1972ba62",
    "pos": [
-    1980,
+    2600,
     4340
    ],
    "size": [
@@ -1493,7 +1493,7 @@
    "id": 322,
    "type": "PrimitiveStringMultiline",
    "pos": [
-    880,
+    1440,
     4340
    ],
    "size": [
@@ -1540,7 +1540,7 @@
    "id": 323,
    "type": "PrimitiveString",
    "pos": [
-    880,
+    1440,
     4600
    ],
    "size": [
@@ -1587,7 +1587,7 @@
    "id": 324,
    "type": "PrimitiveString",
    "pos": [
-    880,
+    1440,
     4730
    ],
    "size": [
@@ -1634,7 +1634,7 @@
    "id": 325,
    "type": "PrimitiveInt",
    "pos": [
-    880,
+    1440,
     4860
    ],
    "size": [
@@ -1683,7 +1683,7 @@
    "id": 326,
    "type": "PrimitiveInt",
    "pos": [
-    880,
+    1440,
     4990
    ],
    "size": [
@@ -5245,7 +5245,7 @@
      },
      {
       "id": 6,
-      "title": "SCAIL Conditioning",
+      "title": "El director prepara la escena",
       "bounding": [
        1580,
        3100,
@@ -5257,7 +5257,7 @@
      },
      {
       "id": 9,
-      "title": "Switch Settings",
+      "title": "Interruptores (con o sin el atajo)",
       "bounding": [
        2030,
        3100,
@@ -5269,7 +5269,7 @@
      },
      {
       "id": 7,
-      "title": "Original Settings",
+      "title": "Ajustes originales (sin el atajo)",
       "bounding": [
        2050,
        3320,
@@ -5281,7 +5281,7 @@
      },
      {
       "id": 8,
-      "title": "Distill LoRA Settings",
+      "title": "Ajustes con el atajo (LoRA lightx2v)",
       "bounding": [
        2050,
        3680,
@@ -5293,7 +5293,7 @@
      },
      {
       "id": 10,
-      "title": "Create Mask",
+      "title": "El seguidor y el mapa de colores",
       "bounding": [
        240,
        5230,
@@ -5304,7 +5304,7 @@
      },
      {
       "id": 11,
-      "title": "Resize Images",
+      "title": "Ajustar el tamaño",
       "bounding": [
        240,
        4750,
@@ -5315,7 +5315,7 @@
      },
      {
       "id": 12,
-      "title": "Trim Frames from Video",
+      "title": "Los cuadros de esta escena",
       "bounding": [
        240,
        4410,
@@ -5326,7 +5326,7 @@
      },
      {
       "id": 13,
-      "title": "Preview Masks",
+      "title": "Ver el mapa de colores",
       "bounding": [
        2030,
        4410,
@@ -9521,7 +9521,7 @@
      },
      {
       "id": 21,
-      "title": "SCAIL Conditioning",
+      "title": "El director prepara la escena",
       "bounding": [
        1590,
        3100,
@@ -9533,7 +9533,7 @@
      },
      {
       "id": 22,
-      "title": "Switch Settings",
+      "title": "Interruptores (con o sin el atajo)",
       "bounding": [
        2050,
        3100,
@@ -9545,7 +9545,7 @@
      },
      {
       "id": 23,
-      "title": "Original Settings",
+      "title": "Ajustes originales (sin el atajo)",
       "bounding": [
        2080,
        3330,
@@ -9557,7 +9557,7 @@
      },
      {
       "id": 24,
-      "title": "Distill LoRA Settings",
+      "title": "Ajustes con el atajo (LoRA lightx2v)",
       "bounding": [
        2080,
        3690,
@@ -9569,7 +9569,7 @@
      },
      {
       "id": 25,
-      "title": "Create Mask",
+      "title": "El seguidor y el mapa de colores",
       "bounding": [
        240,
        5250,
@@ -9580,7 +9580,7 @@
      },
      {
       "id": 26,
-      "title": "Resize Images",
+      "title": "Ajustar el tamaño",
       "bounding": [
        240,
        4770,
@@ -9591,7 +9591,7 @@
      },
      {
       "id": 27,
-      "title": "Trim Frames from Video",
+      "title": "Los cuadros de esta escena",
       "bounding": [
        240,
        4430,
@@ -9602,7 +9602,7 @@
      },
      {
       "id": 28,
-      "title": "Preview Masks",
+      "title": "Ver el mapa de colores",
       "bounding": [
        2050,
        4430,
@@ -9613,7 +9613,7 @@
      },
      {
       "id": 14,
-      "title": "Group",
+      "title": "Revelar e igualar el color con la escena anterior",
       "bounding": [
        2770,
        4430,
