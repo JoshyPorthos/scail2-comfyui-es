@@ -2,7 +2,7 @@
 
 > 🦖 **Este flujo es gratis.** Si te sirvió, suscríbete a **El Dino Porthos** en YouTube para más tutoriales: **https://www.youtube.com/@eldinoporthos**
 
-Flujos del tutorial de **SCAIL-2** de **El Dino Porthos** (YouTube: @eldinoporthos). 📺 El video: *(se añade al publicarlo)*.
+Flujos del tutorial de **SCAIL-2** de **El Dino Porthos** (YouTube: @eldinoporthos). 📺 El video: **https://youtu.be/8DiKTCY8Vuc**
 Cambia a una persona, o a un animal, de un video por cualquier personaje: misma cámara, misma luz y mismo sonido, gratis
 en tu propio computador.
 
